@@ -1,0 +1,12 @@
+# Ignore Python cache folders
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore generated CSV output
+std_output.csv
+custom_output.csv
+writer_test.csv
+custom_csv_project/
